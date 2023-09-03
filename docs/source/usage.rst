@@ -32,3 +32,4 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Or if that doesn't work, use other functions such as ``get.random.number.stuff()``
